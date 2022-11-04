@@ -1,0 +1,546 @@
+products price quantity
+
+tomato
+
+product name=tomato,
+Price/quantity=100/kg,
+Stock=100/kg.
+
+potato
+
+product name=potato,
+Price/quantity=90/kg,
+Stock=120
+********************.
+
+cabbage
+
+product name=cabage,
+Price/quantity=50/kg,
+Stock=100
+********************.
+
+carrot
+product name=carrot,
+Price/quantity=55/kg,
+Stock=50.
+
+beans
+product name=beans,
+Price/quantity=30/kg,
+Stock=50.
+
+beetroot
+product name=beetroot,
+Price/quantity=45/kg,
+Stock=10.
+
+ladys finger
+product name=ladys finger,
+Price/quantity=55/kg,
+Stock=50.
+
+cauliflower
+product name=cauliflower,
+Price/quantity=30/kg,
+Stock=50.
+
+bitter gourd
+product name=bitter gourd,
+Price/quantity=35/kg,
+Stock=50.
+
+ridge gourd
+product name=ridge gourd,
+Price/quantity=30/kg,
+Stock=50.
+
+spinach
+product name=spinach,
+Price/quantity=25/kg,
+Stock=45.
+
+onion
+product name=onion,
+Price/quantity=25/kg,
+Stock=40.
+
+fenugreek
+product name=fenugreek,
+Price/quantity=25/kg,
+Stock=40.
+
+aubergine
+product name=aubergine,
+Price/quantity=25/kg,
+Stock=40.
+
+pumpkin
+product name=pumpkin,
+Price/quantity=25/kg,
+Stock=40.
+
+sooran
+product name=sooran,
+Price/quantity=20/kg,
+Stock=20.
+
+turnip
+product name=turnip,
+Price/quantity=22/kg,
+Stock=30.
+
+water chestnuts
+product name=water chestnuts,
+Price/quantity=21/kg,
+Stock=40.
+
+hyacinth beans
+product name=hyacinth beans,
+Price/quantity=22/kg,
+Stock=41.
+
+drum stick
+product name=drum stick,
+Price/quantity=22/kg,
+Stock=30.
+
+cluster beans
+product name=cluster beans,
+Price/quantity=22/kg,
+Stock=30.
+
+cilantro
+product name=cilantro,
+Price/quantity=22/kg,
+Stock=30.
+
+egg
+product name=egg,
+Price/quantity=3/piece,
+Stock=30.
+
+chicken
+product name=chicken,
+Price/quantity=100/kg,
+Stock=5.
+
+mutton
+product name=mutton,
+Price/quantity=150/kg,
+Stock=5.
+
+fish
+product name=fish,
+Price/quantity=100/kg,
+Stock=15.
+
+apple
+product name=apple,
+Price/quantity=50/kg,
+Stock=30.
+
+orange
+product name=orange,
+Price/quantity=50/kg,
+Stock=30.
+
+sweet leamon
+product name=sweet leamon,
+Price/quantity=50/kg,
+Stock=30.
+
+leamon
+product name=leamon,
+Price/quantity=50/kg,
+Stock=30.
+
+pomegranate
+product name=pomegranate,
+Price/quantity=50/kg,
+Stock=30.
+
+cucumbar
+product name=cucumbar,
+Price/quantity=50/kg,
+Stock=30.
+
+white grapse
+product name=white grapse,
+Price/quantity=50/kg,
+Stock=30.
+
+black grapse
+product name=black grapse,
+Price/quantity=50/kg,
+Stock=30.
+
+jack fruit
+product name=jack fruit,
+Price/quantity=60/kg,
+Stock=20.
+
+straberry
+product name=straberry,
+Price/quantity=70/kg,
+Stock=10.
+
+berry
+product name=berry,
+Price/quantity=10/kg,
+Stock=20.
+
+plumps
+product name=plumps,
+Price/quantity=15/kg,
+Stock=20.
+
+bannana	
+product name=bannana,
+Price/quantity=10/kg,
+Stock=20.
+
+pine apple
+product name=pine apple,
+Price/quantity=10/kg,
+Stock=20.
+
+water melon
+product name=water melon,
+Price/quantity=15/kg,
+Stock=20.
+
+dragon fruit
+product name=dragon fruit,
+Price/quantity=25/kg,
+Stock=20.
+
+papaya
+product name=papaya,
+Price/quantity=20/kg,
+Stock=20.
+
+guava
+product name=guava,
+Price/quantity=10/kg,
+Stock=20.
+
+capsican
+product name=capsican,
+Price/quantity=16/kg,
+Stock=10.
+
+chilli
+product name=chilli,
+Price/quantity=10/kg,
+Stock=20.
+
+ginger
+product name=ginger,
+Price/quantity=10/kg,
+Stock=20.
+
+mango
+product name=mango,
+Price/quantity=15/kg,
+Stock=22.
+
+avocado
+product name=avocado,
+Price/quantity=10/kg,
+Stock=20.
+
+corn
+product name=corn,
+Price/quantity=20/kg,
+Stock=10.
+
+radish
+product name=radish,
+Price/quantity=15/kg,
+Stock=12.
+
+mushroom
+product name=mushroom,
+Price/quantity=10/kg,
+Stock=20.
+
+green peper
+product name=green peper,
+Price/quantity=10/kg,
+Stock=20.
+
+bannana
+product name=bannana,
+Price/quantity=10/kg,
+Stock=20.
+
+milk
+product name=milk,
+Price/quantity=50/L,
+Stock=20.
+
+curd
+product name=curd,
+Price/quantity=50/L,
+Stock=20.
+
+straw berry
+product name=straw berry,
+Price/quantity=50/L,
+Stock=20.
+
+cocacola
+product name=cocacola,
+Price/quantity=100/L,
+Stock=20.
+
+pepsi
+product name=pepsi,
+Price/quantity=50/L,
+Stock=20.
+
+fanta
+product name=fanta,
+Price/quantity=50/L,
+Stock=20.
+
+7 up
+product name=7 up,
+Price/quantity=50/L,
+Stock=20.
+
+mazaa
+product name=mazaa,
+Price/quantity=60/L,
+Stock=20.
+
+wheat floor
+product name=wheat floor,
+Price/quantity=50/KG,
+Stock=20.
+
+maidha
+product name=maidha,
+Price/quantity=50/KG,
+Stock=20.
+
+maggi
+product name=maggi,
+Price/quantity=10/P,
+Stock=20.
+
+yeppi noodles
+product name=yeppi noodles,
+Price/quantity=20/P,
+Stock=20.
+
+green gram	
+product name=green gram,
+Price/quantity=50/KG,
+Stock=20.
+
+red gram
+product name=red gram,
+Price/quantity=50/KG,
+Stock=20.
+
+colgate vedsakthi small 50ml
+product name=colgate vedsakthi small 50ml,
+Price/quantity=40,
+Stock=100.
+
+colgate vedsakthi medium 100ml
+product name=colgate vedsakthi medium 100ml,
+Price/quantity=70,
+Stock=60.
+
+colgate vedsakthi large 150ml
+product name=colgate vedsakthi large 150ml,
+Price/quantity=90,
+Stock=10.
+
+colgate vedsakthi big 200ml
+product name=colgate vedsakthi big 200ml,
+Price/quantity=120,
+Stock=90.
+
+colgate toothpaste kids
+product name=colgate toothpaste kids,
+Price/quantity=15,
+Stock=80.
+
+colgate toothpaste teen
+product name=colgate toothpaste teen,
+Price/quantity=20,
+Stock=40.
+
+colgate toothpaste adult
+product name=colgate toothpaste adult,
+Price/quantity=30,
+Stock=20.
+
+cinthol soap small
+product name=cinthol soap small,
+Price/quantity=10,
+Stock=80.
+
+cinthol soap big
+product name=cinthol soap big,
+Price/quantity=40,
+Stock=60.
+
+cinthol soap very big
+product name=cinthol soap very big 500mg,
+Price/quantity=60,
+Stock=90.
+
+head&shoulders small
+product name=head&shoulders small 20ml,
+Price/quantity=2,
+Stock=120.
+
+head&shoulders big
+product name=head&shoulders big 50ml,
+Price/quantity=20,
+Stock=60.
+
+head&shoulders large
+product name=head&shoulders large 200ml,
+Price/quantity=40,
+Stock=10.
+
+vvd coconut oil small
+product name=vvd coconut oil small 50 ml,
+Price/quantity=40,
+Stock=110.
+
+vvd coconut oil big
+product name=vvd coconut oil big 100 ml,
+Price/quantity=70,
+Stock=80.
+
+comb
+product name=comb,
+Price/quantity=20,
+Stock=100.
+
+ponds powder small
+product name=ponds powder small,
+Price/quantity=40,
+Stock=30.
+
+ponds powder big
+product name=ponds powder big,
+Price/quantity=90,
+Stock=10.
+
+axe deodrant small
+product name=axe deodrant small,
+Price/quantity=80,
+Stock=50.
+
+axe deodrant big
+product name=axe deodrant big,
+Price/quantity=140,
+Stock=30.
+
+gillete
+product name=gillete,
+Price/quantity=60,
+Stock=50.
+
+lipstick
+product name=lipstick,
+Price/quantity=140,
+Stock=10.
+
+sunscreen
+product name=sunscreen,
+Price/quantity=60,
+Stock=70.
+
+toys
+product name=toys,
+Price/quantity=20,
+Stock=10.
+
+gifts
+product name=gifts,
+Price/quantity=30,
+Stock=20.
+
+accessories
+product name=accessories,
+Price/quantity=50,
+Stock=50.
+
+pan
+product name=pan,
+Price/quantity=50,
+Stock=90.
+
+oven
+product name=oven,
+Price/quantity=50,
+Stock=90.
+
+electric cooker
+product name=electric cooker,
+Price/quantity=500,
+Stock=20.
+
+pressure cooker
+product name=pressure cooker,
+Price/quantity=200,
+Stock=120.
+
+china dish
+product name=china dish,
+Price/quantity=90,
+Stock=40.
+
+harpic_blue
+product name=harpic_blue,
+Price/quantity=35,
+Stock=100ml.
+
+harpic_red
+product name=harpic_red,
+Price/quantity=40,
+Stock=100ml.
+
+wallhook
+product name=wallhook,
+Price/quantity=200,
+Stock=1.
+
+restroom_mate
+product name=restroom_mate,
+Price/quantity=250,
+Stock=1.
+
+toiltel_brush
+product name=toiltel_brush,
+Price/quantity=100,
+Stock=1.
+
+rin
+product name=rin,
+Price/quantity=180,
+Stock=1kg.
+
+surf_excel
+product name=surf_excel,
+Price/quantity=180,
+Stock=1kg.
+
+body_scrb
+product name=body_scrb,
+Price/quantity=20,
+Stock=1.
+
+washing_scrb
+product name=washing_scrb,
+Price/quantity=40,
+Stock=1.
